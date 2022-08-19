@@ -1,0 +1,15 @@
+/home/tav_wesley/Documents/ProjectEuler/bin/Debug/net6.0/ProjectEuler
+/home/tav_wesley/Documents/ProjectEuler/bin/Debug/net6.0/ProjectEuler.deps.json
+/home/tav_wesley/Documents/ProjectEuler/bin/Debug/net6.0/ProjectEuler.runtimeconfig.json
+/home/tav_wesley/Documents/ProjectEuler/bin/Debug/net6.0/ProjectEuler.dll
+/home/tav_wesley/Documents/ProjectEuler/bin/Debug/net6.0/ref/ProjectEuler.dll
+/home/tav_wesley/Documents/ProjectEuler/bin/Debug/net6.0/ProjectEuler.pdb
+/home/tav_wesley/Documents/ProjectEuler/obj/Debug/net6.0/ProjectEuler.csproj.AssemblyReference.cache
+/home/tav_wesley/Documents/ProjectEuler/obj/Debug/net6.0/ProjectEuler.GeneratedMSBuildEditorConfig.editorconfig
+/home/tav_wesley/Documents/ProjectEuler/obj/Debug/net6.0/ProjectEuler.AssemblyInfoInputs.cache
+/home/tav_wesley/Documents/ProjectEuler/obj/Debug/net6.0/ProjectEuler.AssemblyInfo.cs
+/home/tav_wesley/Documents/ProjectEuler/obj/Debug/net6.0/ProjectEuler.csproj.CoreCompileInputs.cache
+/home/tav_wesley/Documents/ProjectEuler/obj/Debug/net6.0/ProjectEuler.dll
+/home/tav_wesley/Documents/ProjectEuler/obj/Debug/net6.0/ref/ProjectEuler.dll
+/home/tav_wesley/Documents/ProjectEuler/obj/Debug/net6.0/ProjectEuler.pdb
+/home/tav_wesley/Documents/ProjectEuler/obj/Debug/net6.0/ProjectEuler.genruntimeconfig.cache
